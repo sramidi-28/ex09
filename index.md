@@ -16,19 +16,19 @@ For our analysis we compared 3 different variables: Effectiveness, Difficulty an
 ## The plots below visualize the data we obtained and chose to report on. There are 5 total plots showcasing the 3 possible variables.
 
 ## Figure 1. Quiz Effectiveness Rating Plot:
-<img src="static/imgs/QER_1" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/QER_1.png" alt="Quiz Effectiveness Rating Plot. "  width="500"/>
 
 ## Figure 2. Plot of Understanding Level of COMP 110 students:
-<img src="static/imgs/UL_2" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/UL_2.png" alt="Plot of Understanding Level of COMP 110 students. "  width="500"/>
 
 ## Figure 3. Difficulty Level Plot:
-<img src="static/imgs/DL_3" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/DL_3.png" alt="Difficulty Level Plot. "  width="500"/>
 
 ## Figure 4. Quiz Effectiveness vs Student Understanding Plot:
-<img src="static/imgs/EvU_4" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/EvU_4.png" alt="Quiz Effectiveness vs Student Understanding Plot "  width="500"/>
 
 ## Figure 5. Quiz Effectiveness vs Difficulty Level Plot:
-<img src="static/imgs/EvD_5" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/EvD_5.png" alt="Quiz Effectiveness vs Difficulty Level Plot. "  width="500"/>
 
 
 ## Our Project Analysis Conclusions
